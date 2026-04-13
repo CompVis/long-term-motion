@@ -65,8 +65,11 @@ import torch
 
 repo = "CompVis/long-term-motion"
 
+# Open-domain motion prediction
 planner_sparse = torch.hub.load(repo, "zipmo_planner_sparse")
 planner_dense = torch.hub.load(repo, "zipmo_planner_dense")
+
+# Motion autoencoder
 vae = torch.hub.load(repo, "zipmo_vae")
 
 # LIBERO planning and policy components.
