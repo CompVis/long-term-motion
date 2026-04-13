@@ -1,0 +1,22 @@
+torch
+torchvision
+
+accelerate
+av
+decord
+fire
+gradio
+imageio[ffmpeg]
+jaxtyping
+matplotlib
+numpy
+omegaconf
+opencv-python-headless
+pillow
+safetensors
+tqdm
+transformers
+wandb
+webdataset
+
+# LIBERO itself is installed from source; see Libero section in README.md.
