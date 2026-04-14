@@ -1,7 +1,7 @@
 # Learning Long-term Motion Embeddings for Efficient Kinematics Generation
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://compvis.github.io/long-term-motion)
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.11737-b31b1b)](https://arxiv.org/abs/2604.11737)
 [![Weights](https://img.shields.io/badge/HuggingFace-Weights-orange)](https://huggingface.co/CompVis/ZipMo)
 [![Venue](https://img.shields.io/badge/CVPR-2026-green)](#citation)
 
@@ -11,7 +11,7 @@
   <a href="https://stefan-baumann.eu" target="_blank">Stefan Andreas Baumann</a><sup>1,2</sup> ·
   Miguel Angel Bautista<sup>3</sup> ·
   Josh Susskind<sup>3</sup> ·
-  <a href="https://ommer-lab.com" target="_blank">Bjorn Ommer</a><sup>1,2</sup>
+  <a href="https://ommer-lab.com" target="_blank">Björn Ommer</a><sup>1,2</sup>
 </div>
 <p align="center">
   <b><sup>1</sup>CompVis @ LMU Munich, <sup>2</sup>MCML, <sup>3</sup>Apple</b><br/>
